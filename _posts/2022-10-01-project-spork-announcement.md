@@ -15,7 +15,7 @@ Today I'm happy to announce my latest ~~obsession~~ piece of work, the beautiful
 
 It's a full-stack website and data analysis project that I've been spending brain cycles on recently, and I'm excited to share it and its lofty goals with the world.
 
-I intend it to be very similar to [They Work For You](https://theyworkforyou.com), a similar site described as a "parliamentary monitoring website" that tracks happenings is Westminster, as well as regional authorities in the United Kingdom.
+I intend it to be very similar to [They Work For You](https://theyworkforyou.com), a similar site described as a "parliamentary monitoring website" that tracks happenings in Westminster, as well as regional authorities in the United Kingdom.
 
 <div class="d-flex flex-column align-items-center p-4">
     <img src="/assets/media/img/2022-10-01-project-spork-announcement/twfy-voting-record.png" alt="Voting record in They Work For You" width="600"  />
