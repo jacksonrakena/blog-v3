@@ -4,6 +4,9 @@ title: "custom email on a budget: MXroute vs Migadu"
 tags: email economy
 ---
 
+*This post is unfinished, but I thought I'd release it.*  
+  
+  
 
 Today you're gonna be getting a rundown of the 'Rakena Email System' - and how stingy I truly am when it comes to paying for email services. (And maybe some pretty sketchy economic analysis.)
 
